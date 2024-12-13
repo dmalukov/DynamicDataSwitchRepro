@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchOperator", "SwitchOperator\SwitchOperator.csproj", "{B90629B6-A1BD-4EA8-B108-620402DB2DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSwitchOperator", "TestSwitchOperator\TestSwitchOperator.csproj", "{CD910EE0-7C71-4B7D-91C9-B11E249BC6CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90629B6-A1BD-4EA8-B108-620402DB2DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90629B6-A1BD-4EA8-B108-620402DB2DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90629B6-A1BD-4EA8-B108-620402DB2DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90629B6-A1BD-4EA8-B108-620402DB2DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD910EE0-7C71-4B7D-91C9-B11E249BC6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD910EE0-7C71-4B7D-91C9-B11E249BC6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD910EE0-7C71-4B7D-91C9-B11E249BC6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD910EE0-7C71-4B7D-91C9-B11E249BC6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
